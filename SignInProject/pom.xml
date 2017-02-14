@@ -3,13 +3,14 @@
   <groupId>SignInProject</groupId>
   <artifactId>SignInProject</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+<packaging>war</packaging>
   <build>
     <sourceDirectory>src</sourceDirectory>
     <plugins>
       <plugin>
         <artifactId>maven-compiler-plugin</artifactId>
         <version>3.5.1</version>
-	<packaging>war</packaging>
+	
         <configuration>
           <source>1.7</source>
           <target>1.7</target>
