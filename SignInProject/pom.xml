@@ -14,7 +14,7 @@
         <configuration>
           <source>1.7</source>
           <target>1.7</target>
-	<webXml>var/lib/jenkins/workspace/Hello-world/SignInProject/WebContent/WEB-INF/web.xml</webXml>
+	<webXml>/var/lib/jenkins/workspace/Hello-world/SignInProject/WebContent/WEB-INF/web.xml</webXml>
 	<failOnMissingWebXml>false</failOnMissingWebXml>
         </configuration>
       </plugin>
